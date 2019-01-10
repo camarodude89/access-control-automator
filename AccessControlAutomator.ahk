@@ -8,13 +8,8 @@
 global ALL_BUTTON := "Button2"
 global SEARCH_BUTTON := "Button1"
 global FIRST_NAME_TEXTBOX := "Edit1"
-global MIDDLE_NAME_TEXTBOX := "Edit2"
 global LAST_NAME_TEXTBOX := "Edit3"
-global EXACT_MATCH_BUTTON := "Button2"
 global SEARCH_RESULTS_COUNT := "Static6"
-global EMPLOYEE_ADD_BUTTON := "Button3"
-global BADGE_ADD_BUTTON := "Button8"
-global EMPLOYEE_LIST_VIEW := "SysListView321"
 
 global LogFile := FileOpen(A_WorkingDir "\log.txt", "a")
 
